@@ -1,0 +1,5 @@
+Select Network Interface: Choose the network interface to capture packets from.
+Start Capturing: Begin capturing network packets.
+Analyze Packets: View and analyze the captured packets in real-time.
+Filter and Search: Apply filters and search criteria to focus on specific packets.
+Export Data: Export captured packet data for further analysis.
