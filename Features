@@ -1,0 +1,6 @@
+Real-Time Packet Capture: Captures network packets in real-time from a specified network interface.
+Protocol Analysis: Analyzes various network protocols such as TCP, UDP, ICMP, and HTTP.
+Detailed Packet Information: Provides detailed information about each captured packet, including source and destination IP addresses, ports, and protocol-specific data.
+Filtering and Search: Allows users to filter and search captured packets based on various criteria.
+Export and Reporting: Exports captured data to various formats (e.g., CSV, JSON) for further analysis and reporting.
+User-Friendly Interface: Intuitive interface for easy navigation and analysis of network traffic.
